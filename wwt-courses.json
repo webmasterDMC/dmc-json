@@ -5,7 +5,7 @@
 	"author_profile" : "https://www.firstaidpro.com.au/",
 	"donate_link" : "https://www.firstaidpro.com.au/",
 	"version" : "1.1",
-	"download_url" : "https://github.com/webmasterDMC/wwt-courses/archive/refs/tags/wwt-courses.zip",
+	"download_url" : "https://github.com/webmasterDMC/wwt-courses/archive/refs/tags/v1.0.0.zip",
 	"requires" : "5.6",
 	"tested" : "6.1",
 	"requires_php" : "5.6",
