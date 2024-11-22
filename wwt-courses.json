@@ -1,0 +1,24 @@
+{
+	"name" : "WWT Courses",
+	"slug" : "wwt-courses",
+	"author" : "DMC",
+	"author_profile" : "https://www.firstaidpro.com.au/",
+	"donate_link" : "https://www.firstaidpro.com.au/",
+	"version" : "1.1",
+	"download_url" : "https://github.com/webmasterDMC/wwt-courses/archive/refs/tags/wwt-courses.zip",
+	"requires" : "5.6",
+	"tested" : "6.1",
+	"requires_php" : "5.6",
+	"added" : "2024-09-10 02:10:00",
+	"last_updated" : "2024-10-14 02:10:00",
+	"homepage" : "https://www.firstaidpro.com.au/",
+	"sections" : {
+		"description" : "Efficiently run many WordPress sites from a single WordPress installation.",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>v1.0.0 released on November 24, 2024</h4>"
+	},
+	"banners" : {
+		"low" : "https://www.firstaidpro.com.au/wp-content/uploads/2021/12/first-aid-pro-logo.jpeg",
+		"high" : "https://www.firstaidpro.com.au/wp-content/uploads/2021/12/first-aid-pro-logo.jpeg"
+	}
+}
